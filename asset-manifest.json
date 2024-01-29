@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-Ecommerce-cart/static/css/main.6054b6ac.css",
+    "main.js": "/react-Ecommerce-cart/static/js/main.355c56c3.js",
+    "static/js/787.20ca64b0.chunk.js": "/react-Ecommerce-cart/static/js/787.20ca64b0.chunk.js",
+    "static/media/addtocart.png": "/react-Ecommerce-cart/static/media/addtocart.c24d9b8b4ab200248b96.png",
+    "index.html": "/react-Ecommerce-cart/index.html",
+    "main.6054b6ac.css.map": "/react-Ecommerce-cart/static/css/main.6054b6ac.css.map",
+    "main.355c56c3.js.map": "/react-Ecommerce-cart/static/js/main.355c56c3.js.map",
+    "787.20ca64b0.chunk.js.map": "/react-Ecommerce-cart/static/js/787.20ca64b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6054b6ac.css",
+    "static/js/main.355c56c3.js"
+  ]
+}
